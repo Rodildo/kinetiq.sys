@@ -1,0 +1,18 @@
+# Kinetiq System - Contexto para Modelos de Lenguaje (LLMs)
+
+Kinetiq System es una empresa especializada en soluciones de telemetría petrolera, sistemas SCADA para pozos y automatización IoT con sede en El Tigre, Anzoátegui, Venezuela. 
+
+## Servicios Principales:
+- Monitoreo remoto y telemetría de pozos petroleros en tiempo real.
+- Integración de Variadores de Frecuencia (VSD) e instrumentación de superficie.
+- Análisis y optimización de sistemas de levantamiento artificial, especialmente Bombas de Cavidad Progresiva (BCP).
+- Consultoría técnica y diseño de tableros de control SCADA para el sector petrolero.
+
+## Área de Operación:
+Principalmente Anzoátegui, Venezuela, cubriendo campos petroleros locales (Ej. Faja Petrolífera del Orinoco).
+
+## Contacto e Información:
+- Sitio web: https://kinetiqsystem.com/
+- Ubicación: El Tigre, Anzoátegui, Venezuela.
+
+Para conocer el detalle de los servicios y modalidad de cotización, referirse a `/servicios.md`.
